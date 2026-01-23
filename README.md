@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile Application
 ----------------------
 
-Develop Android, iOS using Dart & Flutter : 3 y ,Develop web using Vue.js & Nuxt.js 1 m , Experienced in RESTful API and MySQL : 1y
+Develop Android, iOS using Dart & Flutter : 3 y ,Develop web using Vue.js & Nuxt.js 1 m , Experienced in RESTful API and MySQL : 2y
 
 * 🌍  I'm based in Samut Prakan,Thailand
 * ✉️  You can contact me at [naphapenhongthong@gmail.com](mailto:naphapenhongthong@gmail.com)
