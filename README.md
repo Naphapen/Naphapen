@@ -8,7 +8,7 @@ Develop Android, iOS using Dart & Flutter : 3 y ,Develop web using Vue.js & Nuxt
 
 * 🌍  I'm based in Samut Prakan,Thailand
 * ✉️  You can contact me at [naphapenhongthong@gmail.com](mailto:naphapenhongthong@gmail.com)
-* 🧠  I'm learning a new MySQL Stored Procedure , swift , Vue.js/Nuxt.js and IoT
+* 🧠  I'm learning a new MySQL Stored Procedure , swift , Vue.js/Nuxt.js ,Go and IoT
 * ⚡  open opportunity
 
 ### Skills
